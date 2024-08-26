@@ -34,6 +34,6 @@ This is a simple and straightforward recreation of the Flappy Bird game develope
 Flap: Up Arrow Key / Spacebar
 
 ### Current State:
-![Alt text](img/pics.png "current state")
+![Alt text](assets/preview.png "current state")
 
 Thank you for checking out this project! Have fun playing, and feel free to contribute or provide feedback.
