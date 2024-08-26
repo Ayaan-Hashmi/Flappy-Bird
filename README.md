@@ -1,2 +1,39 @@
-# Flappy-Bird
-Flappy Bird : A faithful recreation of one of the most addictive games of all time, The Flappy Bird game, featuring simple controls and classic pixel art graphics which makes this game very engaging.  This game tests your reflexes and patience as you strive to achieve the highest score possible.
+# Flappy Bird - Ayaan Hashmi
+
+## Overview
+
+This is a simple and straightforward recreation of the Flappy Bird game developed by Ayaan Hashmi, where you control a bird navigating through pipes while maintaining its altitude. The game features easy controls and classic pixel art graphics.
+
+## Dependencies
+
+- **Pygame:** For game development
+
+## Getting Started
+
+### Installation
+
+1. **Clone the Repository:**
+
+   ```
+   git clone https://github.com/Ayaan-Hashmi/Flappy-Bird.git
+   cd flappy-bird
+   ```
+
+2. **Installing Dependencies:**
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. **Run the game:**
+   ```
+   python flappy.py
+   ```
+
+### Controls:
+Flap: Up Arrow Key / Spacebar
+
+### Current State:
+![Alt text](img/pics.png "current state")
+
+Thank you for checking out this project! Have fun playing, and feel free to contribute or provide feedback.
