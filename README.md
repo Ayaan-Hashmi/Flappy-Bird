@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple and straightforward recreation of the Flappy Bird game developed by Ayaan Hashmi, where you control a bird navigating through pipes while maintaining its altitude. The game features easy controls and classic pixel art graphics.
+This is a simple and straightforward recreation of the Flappy Bird game developed by **Ayaan Hashmi**, where you control a bird navigating through pipes while maintaining its altitude. The game features easy controls and classic pixel art graphics.
 
 ## Dependencies
 
