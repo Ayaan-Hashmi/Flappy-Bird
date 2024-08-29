@@ -39,7 +39,7 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 def main():
     global screen, frames_per_second_clock
     pygame.init()
-    pygame.display.set_caption('Flappy Bird')
+    pygame.display.set_caption('Flappy Bird - Ayaan Hashmi')
     images['numbers'] = (
         pygame.image.load('assets/sprites/0.png').convert_alpha(),
         pygame.image.load('assets/sprites/1.png').convert_alpha(),
