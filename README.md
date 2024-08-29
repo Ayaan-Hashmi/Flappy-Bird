@@ -27,7 +27,7 @@ This is a simple and straightforward recreation of the **Flappy Bird** game deve
 
 3. **Run the game:**
    ```
-   python flappy.py
+   python flappy-bird.py
    ```
 
 ### Controls:
